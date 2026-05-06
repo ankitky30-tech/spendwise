@@ -5,7 +5,7 @@ SpendWise is a modern, cross-platform expense tracking application built with Fl
 ---
 
 ## 📱 APK / Live App
-👉 Installable APK: https://github.com/ankitky30-tech/spendwise/releases/tag/v1.9  
+👉 Installable APK: https://github.com/ankitky30-tech/spendwise/releases  
 👉 Source Code: https://github.com/ankitky30-tech/spendwise
 
 ---
