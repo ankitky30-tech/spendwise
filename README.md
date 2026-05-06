@@ -5,7 +5,7 @@ SpendWise is a modern, cross-platform expense tracking application built with Fl
 ---
 
 ## 📱 APK / Live App
-👉 Installable APK: [Add your GitHub Releases link here]  
+👉 Installable APK: https://github.com/ankitky30-tech/spendwise/releases/tag/v1.9  
 👉 Source Code: https://github.com/ankitky30-tech/spendwise
 
 ---
@@ -72,12 +72,12 @@ Exporting and file handling in mobile apps
 Clean architecture and UI design principles
 
 What I Learned
-🧩 State Management in Flutter – Managed app state efficiently using Provider for scalable UI updates
-🗄️ Local Database (Hive) – Implemented offline data storage and persistence
-🔄 CRUD Applications – Built full create, read, update, delete functionality in a real-world app
-📊 Data Visualization – Used charts to represent financial data meaningfully
-📤 File Handling & Exporting – Generated and exported data in CSV and PDF formats
-🎨 Clean Architecture & UI Design – Structured code into reusable components with a modern Material 3 interface
+ State Management in Flutter – Managed app state efficiently using Provider for scalable UI updates
+ Local Database (Hive) – Implemented offline data storage and persistence
+ CRUD Applications – Built full create, read, update, delete functionality in a real-world app
+ Data Visualization – Used charts to represent financial data meaningfully
+ File Handling & Exporting – Generated and exported data in CSV and PDF formats
+ Clean Architecture & UI Design – Structured code into reusable components with a modern Material 3 interface
 
 Future Improvements
 Cloud sync using Firebase
